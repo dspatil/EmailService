@@ -1,0 +1,14 @@
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\EmailServiceClient.dll.config
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\EmailServiceClient.dll
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\EmailServiceClient.pdb
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\obj\Debug\EmailServiceClient.csprojResolveAssemblyReference.cache
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\obj\Debug\EmailServiceClient.dll
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\obj\Debug\EmailServiceClient.pdb
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.xml
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailServiceClient\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml

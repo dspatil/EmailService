@@ -1,0 +1,4 @@
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailService\bin\EmailService.dll
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailService\bin\EmailService.pdb
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailService\obj\Debug\EmailService.dll
+c:\users\zeal\documents\visual studio 2012\Projects\EmailService\EmailService\obj\Debug\EmailService.pdb
