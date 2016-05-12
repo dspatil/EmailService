@@ -17,13 +17,13 @@ namespace EmailServiceTestClient
             EmailServiceClient client = new EmailServiceClient();
 
             var request = new SendMailRQ();
-            request.UserMailAddress = "deepakpatil1410@gmail.com";
-            request.UserPassword = "tav@dp14";
+            request.UserMailAddress = "deepak@gmail.com";
+            request.UserPassword = "*****";
             request.MailTo = "cts.deepak@yahoo.com";
             request.ccTo = "prashatgarud1992@gmail.com";
             request.Subject = "Test mail through my own Email service";
             request.IsBodyHtml = false;
-            request.Body = "Gaand Tuzi";
+            request.Body = "Hello...";
 
             var response = client.SendMail(request);
 
